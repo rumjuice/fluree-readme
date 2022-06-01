@@ -1,6 +1,6 @@
 # Fluree Setup Readme
 
-A documentation to setup a decentralized ledger using Fluree
+A documentation to setup a decentralized ledger using [Fluree]('https://flur.ee/)
 
 ### As part of Advanced Blockchain Technology Assignment
 
