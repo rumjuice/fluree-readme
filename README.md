@@ -1,6 +1,6 @@
 # Fluree Setup Readme
 
-A documentation to setup a decentralized ledger using [Fluree]('https://flur.ee/')
+A documentation to setup a decentralized ledger using [Fluree](https://flur.ee/)
 
 ### As part of Advanced Blockchain Technology Assignment
 
@@ -20,7 +20,7 @@ There are ways to install Fluree:
 ### 2. Download Fluree
 
 - Install Java 11 or above
-- [Download latest version]('https://s3.amazonaws.com/fluree-releases-public/fluree-stable.zip')
+- [Download latest version](https://s3.amazonaws.com/fluree-releases-public/fluree-stable.zip)
 - Run `./fluree_start.sh`
 
 > Installing via HomeBrew is not working. The Brew Tap is broken
